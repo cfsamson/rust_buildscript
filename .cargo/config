@@ -1,0 +1,3 @@
+[alias]
+gen  = "run --package tools --bin gen"
+todo = "run --package tools --bin todo"

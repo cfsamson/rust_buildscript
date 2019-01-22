@@ -1,0 +1,2 @@
+This is a configuration file.
+It needs to be with the main binary.

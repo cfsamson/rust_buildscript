@@ -1,0 +1,8 @@
+[package]
+name = "tools"
+version = "0.1.0"
+authors = ["Carl Fredrik Samson <cf@samson.no>"]
+edition = "2018"
+publish = false
+
+[dependencies]
